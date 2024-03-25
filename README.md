@@ -1,7 +1,7 @@
 # Molecular Activity Prediction Using Machine Learning (School Project)
 
 ## Overview
-This project aims to develop a machine learning model for inferring molecular activity over the Dopamine2 Receptors. The task is a regression problem where regression models are utilized to predict molecular activity. The dataset is provided via Python Pickle (drd2_data.pickle) and consists of training data (X_train, y_train) and independent variables (X_ivs) for which predictions are to be made.
+This project aims to develop a machine learning model for inferring molecular activity over the Dopamine2 Receptors. The task is a regression problem where regression models are utilized to predict molecular activity. The dataset is provided via Python Pickle and consists of training data (X_train, y_train) and independent variables (X_ivs) for which predictions are to be made.
 
 ## Dataset
 The dataset is acquired using Python Pickle and consists of the following components:
